@@ -1,0 +1,5 @@
+,product_id,name,brand,price,category,in_stock,description,specs
+0,1,Laptop,TechMaster,899.99,Electronics,True,Powerful laptop for work and gaming.,"{'processor': 'Intel Core i7', 'memory': '16GB RAM', 'storage': '512GB SSD', 'screen_size': '15.6 inches'}"
+1,2,Smartphone,GadgetPro,499.99,Electronics,True,High-performance smartphone with a stunning display.,"{'processor': 'Snapdragon 888', 'memory': '8GB RAM', 'storage': '128GB', 'screen_size': '6.2 inches'}"
+2,3,Coffee Maker,BrewMaster,49.99,Kitchen Appliances,False,Brew your favorite coffee at home.,"{'type': 'Drip Coffee Maker', 'capacity': '12 cups', 'color': 'Black'}"
+3,4,Running Shoes,FitFlex,79.99,Sports & Outdoors,True,Comfortable and stylish running shoes for athletes.,"{'size': '10', 'color': 'Blue/White', 'gender': 'Unisex'}"

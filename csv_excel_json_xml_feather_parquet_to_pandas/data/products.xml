@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <level_0>0</level_0>
+    <index>0</index>
+    <product_id>1</product_id>
+    <name>Laptop</name>
+    <brand>TechMaster</brand>
+    <price>899.99</price>
+    <category>Electronics</category>
+    <in_stock>True</in_stock>
+    <description>Powerful laptop for work and gaming.</description>
+    <specs>{'processor': 'Intel Core i7', 'memory': '16GB RAM', 'storage': '512GB SSD', 'screen_size': '15.6 inches'}</specs>
+  </row>
+  <row>
+    <level_0>1</level_0>
+    <index>1</index>
+    <product_id>2</product_id>
+    <name>Smartphone</name>
+    <brand>GadgetPro</brand>
+    <price>499.99</price>
+    <category>Electronics</category>
+    <in_stock>True</in_stock>
+    <description>High-performance smartphone with a stunning display.</description>
+    <specs>{'processor': 'Snapdragon 888', 'memory': '8GB RAM', 'storage': '128GB', 'screen_size': '6.2 inches'}</specs>
+  </row>
+  <row>
+    <level_0>2</level_0>
+    <index>2</index>
+    <product_id>3</product_id>
+    <name>Coffee Maker</name>
+    <brand>BrewMaster</brand>
+    <price>49.99</price>
+    <category>Kitchen Appliances</category>
+    <in_stock>False</in_stock>
+    <description>Brew your favorite coffee at home.</description>
+    <specs>{'type': 'Drip Coffee Maker', 'capacity': '12 cups', 'color': 'Black'}</specs>
+  </row>
+  <row>
+    <level_0>3</level_0>
+    <index>3</index>
+    <product_id>4</product_id>
+    <name>Running Shoes</name>
+    <brand>FitFlex</brand>
+    <price>79.99</price>
+    <category>Sports &amp; Outdoors</category>
+    <in_stock>True</in_stock>
+    <description>Comfortable and stylish running shoes for athletes.</description>
+    <specs>{'size': '10', 'color': 'Blue/White', 'gender': 'Unisex'}</specs>
+  </row>
+</data>
