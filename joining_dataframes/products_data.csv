@@ -1,0 +1,4 @@
+Prod_ID,Prod_Name,Price_INR,Category,Manufacturer,Stock_Quantity
+CM132,Clothing-Mens,500,Clothing,Company X,100
+CW135,Clothing-Womens,750,Clothing,FashionCo,200
+CC333,Clothing-Childrens,250,Clothing,Company X,150
